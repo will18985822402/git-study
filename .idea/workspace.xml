@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f29fe3fa-d7f2-47ae-8d46-21c6e8f3cdde" name="Default Changelist" comment="" />
+    <list default="true" id="f29fe3fa-d7f2-47ae-8d46-21c6e8f3cdde" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +25,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="711" />
-    <option name="y" value="208" />
+    <option name="x" value="246" />
+    <option name="y" value="240" />
     <option name="width" value="1365" />
     <option name="height" value="730" />
   </component>
@@ -51,7 +53,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1654696364498" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1654697736548" />
+    <property name="last_opened_file_path" value="E:/004-Linux/money" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -87,15 +90,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654695962245</updated>
-      <workItem from="1654695963707" duration="254000" />
+      <workItem from="1654695963707" duration="1327000" />
     </task>
+    <task id="LOCAL-00001" summary="提交测试">
+      <created>1654696438632</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654696438633</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="254000" />
+    <option name="totallyTimeSpent" value="1327000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="569" y="167" width="1092" height="584" extended-state="0" />
+    <frame x="197" y="192" width="1092" height="584" extended-state="0" />
     <layout>
       <window_info id="Web" side_tool="true" />
       <window_info id="Designer" order="0" />
@@ -107,12 +118,12 @@
       <window_info id="Structure" order="6" sideWeight="0.5007657" side_tool="true" weight="0.24962743" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.329429" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.7126168" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32956153" />
       <window_info anchor="bottom" id="Problems" order="3" weight="0.329429" />
       <window_info anchor="bottom" id="Database Changes" order="4" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="5" visible="true" weight="0.92990655" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.92990655" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
@@ -160,6 +171,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交测试" />
   </component>
   <component name="masterDetails">
     <states>
